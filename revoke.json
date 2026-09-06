@@ -1,4 +1,4 @@
 {
-  "revoked": true,
-  "message": "Access suspended - please contact your service provider."
+  "revoked": false,
+  "message": ""
 }
